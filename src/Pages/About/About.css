@@ -1,0 +1,34 @@
+.about-container {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  header {
+    background-color: #f4f4f4;
+    padding: 30px;
+  }
+  
+  h1 {
+    color: #444;
+  }
+  
+  p {
+    color: #777;
+  }
+  
+  .team {
+    margin-top: 20px;
+    background-color: #dfe3e6;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .team h2 {
+    color: #444;
+  }
+  
+  .team p {
+    color: #555;
+  }
+  
